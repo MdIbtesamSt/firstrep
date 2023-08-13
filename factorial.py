@@ -6,3 +6,4 @@ def fact(x):
     return fac
 x=int(input('enter number: '))
 print(fact(x))
+print("github yoyo")
