@@ -6,4 +6,4 @@ def fact(x):
     return fac
 x=int(input('Enter number: '))
 print(fact(x))
-print("Github yoyo")
+print("Github yoyo [tahmid]")
